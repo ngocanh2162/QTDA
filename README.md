@@ -1,4 +1,3 @@
 # IT4240_QTDA
-Nhóm 14
-Dự án: Website bán hàng điện tử điện lạnh
-
+Nhóm 12
+Dự án: Phần mềm nhận dạng chuyển động của tay để điều khiển slide trình chiếu.
